@@ -1,5 +1,5 @@
 # ssr-camp
-react服务端渲染练习
+> react服务端渲染练习
 #### 初始化项目：cnpm i
 
 #### 执行命令
